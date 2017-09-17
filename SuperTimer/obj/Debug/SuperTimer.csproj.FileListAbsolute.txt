@@ -1,0 +1,10 @@
+C:\Users\adity\source\repos\SuperTimer\SuperTimer\bin\Debug\SuperTimer.exe.config
+C:\Users\adity\source\repos\SuperTimer\SuperTimer\bin\Debug\SuperTimer.exe
+C:\Users\adity\source\repos\SuperTimer\SuperTimer\bin\Debug\SuperTimer.pdb
+C:\Users\adity\source\repos\SuperTimer\SuperTimer\obj\Debug\SuperTimer.csprojResolveAssemblyReference.cache
+C:\Users\adity\source\repos\SuperTimer\SuperTimer\obj\Debug\SuperTimer.Form1.resources
+C:\Users\adity\source\repos\SuperTimer\SuperTimer\obj\Debug\SuperTimer.Properties.Resources.resources
+C:\Users\adity\source\repos\SuperTimer\SuperTimer\obj\Debug\SuperTimer.csproj.GenerateResource.Cache
+C:\Users\adity\source\repos\SuperTimer\SuperTimer\obj\Debug\SuperTimer.csproj.CoreCompileInputs.cache
+C:\Users\adity\source\repos\SuperTimer\SuperTimer\obj\Debug\SuperTimer.exe
+C:\Users\adity\source\repos\SuperTimer\SuperTimer\obj\Debug\SuperTimer.pdb
